@@ -50,6 +50,23 @@ jobs:
           EOF
           fi
 
+      - name: Update learning log index
+        run: |
+          {
+            echo "# 📚 Daily Learning Log"
+            echo ""
+            echo "My daily learning, practice, and progress."
+            echo ""
+            echo "## 🗓️ Logs"
+            echo ""
+
+            for file in $(find daily-learning -name "*.md" ! -name "README.md" | sort -r); do
+              DATE=$(basename "$file" .md)
+              DISPLAY_DATE=$(date -d "$DATE" +"%B %-d, %Y")
+              echo "- [$DISPLAY_DATE](./$file)"
+            done
+          } > daily-learning/README.md
+
       - name: Commit daily learning log
         run: |
           git config user.name "github-actions[bot]"
