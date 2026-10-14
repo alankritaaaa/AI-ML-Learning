@@ -4,6 +4,7 @@ My daily learning, practice, and progress.
 
 ## 🗓️ Logs
 
+- [October 14, 2026](./daily-learning/2026-10-14.md)
 - [October 13, 2026](./daily-learning/2026-10-13.md)
 - [October 12, 2026](./daily-learning/2026-10-12.md)
 - [October 9, 2026](./daily-learning/2026-10-09.md)
