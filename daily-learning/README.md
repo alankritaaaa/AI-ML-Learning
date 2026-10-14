@@ -18,7 +18,6 @@ My daily learning, practice, and progress.
 - [September 29, 2026](./daily-learning/2026-09-29.md)
 - [September 28, 2026](./daily-learning/2026-09-28.md)
 - [September 25, 2026](./daily-learning/2026-09-25.md)
-- [September 24, 2026](./daily-learning/2026-09-24.md)
 - [September 23, 2026](./daily-learning/2026-09-23.md)
 - [September 17, 2026](./daily-learning/2026-09-17.md)
 - [September 16, 2026](./daily-learning/2026-09-16.md)
