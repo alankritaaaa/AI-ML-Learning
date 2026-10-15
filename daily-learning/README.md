@@ -10,7 +10,6 @@ My daily learning, practice, and progress.
 - [October 12, 2026](./daily-learning/2026-10-12.md)
 - [October 9, 2026](./daily-learning/2026-10-09.md)
 - [October 8, 2026](./daily-learning/2026-10-08.md)
-- [October 7, 2026](./daily-learning/2026-10-07.md)
 - [October 6, 2026](./daily-learning/2026-10-06.md)
 - [September 30, 2026](./daily-learning/2026-09-30.md)
 - [September 28, 2026](./daily-learning/2026-09-28.md)
